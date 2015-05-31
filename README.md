@@ -1,2 +1,2 @@
 # list-of-hamburger-restaurants
-List of favorite restaurants to update
+List of my favorite restaurants to update 
